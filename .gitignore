@@ -1,1 +1,10 @@
 .env
+cookies
+
+/tag_goku/**
+venv/**
+__pycache__/**
+
+# Archvios descargador
+descargas/**
+
