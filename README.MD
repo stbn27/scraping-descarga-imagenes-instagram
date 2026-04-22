@@ -12,8 +12,8 @@ Script para descargar múltiples imágenes de un **tag/hashtag** de instagram us
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-   cd TU_REPOSITORIO
+   git clone https://github.com/stbn27/scraping-descarga-imagenes-instagram.git
+   cd SCRAPING-IMAGENES
    ```
 
 2. Crea y activa un entorno virtual (recomendado):
